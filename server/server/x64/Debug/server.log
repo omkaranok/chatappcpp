@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\omkar_0ro510e\source\repos\server\main.cpp(10,9): warning C4068: unknown pragma 'commment'
+C:\Users\omkar_0ro510e\source\repos\server\main.cpp(61,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.vcxproj -> C:\Users\omkar_0ro510e\source\repos\server\x64\Debug\server.exe
